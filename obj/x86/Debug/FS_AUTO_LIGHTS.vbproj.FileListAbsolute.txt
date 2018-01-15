@@ -1,0 +1,50 @@
+C:\Documents and Settings\nitestryker\Local Settings\Application Data\Temporary Projects\FS_AUTO_LIGHTS\bin\Debug\FS_AUTO_LIGHTS.exe
+C:\Documents and Settings\nitestryker\Local Settings\Application Data\Temporary Projects\FS_AUTO_LIGHTS\bin\Debug\FS_AUTO_LIGHTS.pdb
+C:\Documents and Settings\nitestryker\Local Settings\Application Data\Temporary Projects\FS_AUTO_LIGHTS\bin\Debug\FS_AUTO_LIGHTS.xml
+C:\Documents and Settings\nitestryker\Local Settings\Application Data\Temporary Projects\FS_AUTO_LIGHTS\bin\Debug\FSUIPCClient.dll
+C:\Documents and Settings\nitestryker\Local Settings\Application Data\Temporary Projects\FS_AUTO_LIGHTS\bin\Debug\FSUIPCClient.xml
+C:\Documents and Settings\nitestryker\Local Settings\Application Data\Temporary Projects\FS_AUTO_LIGHTS\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\nitestryker\Local Settings\Application Data\Temporary Projects\FS_AUTO_LIGHTS\obj\x86\Debug\FS_AUTO_LIGHTS.Form1.resources
+C:\Documents and Settings\nitestryker\Local Settings\Application Data\Temporary Projects\FS_AUTO_LIGHTS\obj\x86\Debug\FS_AUTO_LIGHTS.Resources.resources
+C:\Documents and Settings\nitestryker\Local Settings\Application Data\Temporary Projects\FS_AUTO_LIGHTS\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Documents and Settings\nitestryker\Local Settings\Application Data\Temporary Projects\FS_AUTO_LIGHTS\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Documents and Settings\nitestryker\Local Settings\Application Data\Temporary Projects\FS_AUTO_LIGHTS\obj\x86\Debug\FS_AUTO_LIGHTS.exe
+C:\Documents and Settings\nitestryker\Local Settings\Application Data\Temporary Projects\FS_AUTO_LIGHTS\obj\x86\Debug\FS_AUTO_LIGHTS.xml
+C:\Documents and Settings\nitestryker\Local Settings\Application Data\Temporary Projects\FS_AUTO_LIGHTS\obj\x86\Debug\FS_AUTO_LIGHTS.pdb
+C:\Documents and Settings\nitestryker\Local Settings\Application Data\Temporary Projects\FS_AUTO_LIGHTS\obj\x86\Debug\FS_AUTO_LIGHTS.about.resources
+C:\Documents and Settings\nitestryker\my documents\visual studio 2010\Projects\FS_AUTO_LIGHTS\FS_AUTO_LIGHTS\obj\x86\Debug\FS_AUTO_LIGHTS.exe
+C:\Documents and Settings\nitestryker\my documents\visual studio 2010\Projects\FS_AUTO_LIGHTS\FS_AUTO_LIGHTS\obj\x86\Debug\FS_AUTO_LIGHTS.xml
+C:\Documents and Settings\nitestryker\my documents\visual studio 2010\Projects\FS_AUTO_LIGHTS\FS_AUTO_LIGHTS\obj\x86\Debug\FS_AUTO_LIGHTS.pdb
+C:\Documents and Settings\nitestryker\my documents\visual studio 2010\Projects\FS_AUTO_LIGHTS\FS_AUTO_LIGHTS\bin\Debug\FS_AUTO_LIGHTS.exe.manifest
+C:\Documents and Settings\nitestryker\my documents\visual studio 2010\Projects\FS_AUTO_LIGHTS\FS_AUTO_LIGHTS\bin\Debug\FS_AUTO_LIGHTS.application
+C:\Documents and Settings\nitestryker\my documents\visual studio 2010\Projects\FS_AUTO_LIGHTS\FS_AUTO_LIGHTS\bin\Debug\FS_AUTO_LIGHTS.exe
+C:\Documents and Settings\nitestryker\my documents\visual studio 2010\Projects\FS_AUTO_LIGHTS\FS_AUTO_LIGHTS\bin\Debug\FS_AUTO_LIGHTS.pdb
+C:\Documents and Settings\nitestryker\my documents\visual studio 2010\Projects\FS_AUTO_LIGHTS\FS_AUTO_LIGHTS\bin\Debug\FS_AUTO_LIGHTS.xml
+C:\Documents and Settings\nitestryker\my documents\visual studio 2010\Projects\FS_AUTO_LIGHTS\FS_AUTO_LIGHTS\bin\Debug\FSUIPCClient.dll
+C:\Documents and Settings\nitestryker\my documents\visual studio 2010\Projects\FS_AUTO_LIGHTS\FS_AUTO_LIGHTS\bin\Debug\FSUIPCClient.xml
+C:\Documents and Settings\nitestryker\my documents\visual studio 2010\Projects\FS_AUTO_LIGHTS\FS_AUTO_LIGHTS\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\nitestryker\my documents\visual studio 2010\Projects\FS_AUTO_LIGHTS\FS_AUTO_LIGHTS\obj\x86\Debug\FS_AUTO_LIGHTS.about.resources
+C:\Documents and Settings\nitestryker\my documents\visual studio 2010\Projects\FS_AUTO_LIGHTS\FS_AUTO_LIGHTS\obj\x86\Debug\FS_AUTO_LIGHTS.Form1.resources
+C:\Documents and Settings\nitestryker\my documents\visual studio 2010\Projects\FS_AUTO_LIGHTS\FS_AUTO_LIGHTS\obj\x86\Debug\FS_AUTO_LIGHTS.Resources.resources
+C:\Documents and Settings\nitestryker\my documents\visual studio 2010\Projects\FS_AUTO_LIGHTS\FS_AUTO_LIGHTS\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Documents and Settings\nitestryker\my documents\visual studio 2010\Projects\FS_AUTO_LIGHTS\FS_AUTO_LIGHTS\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Documents and Settings\nitestryker\my documents\visual studio 2010\Projects\FS_AUTO_LIGHTS\FS_AUTO_LIGHTS\obj\x86\Debug\FS_AUTO_LIGHTS.TrustInfo.xml
+C:\Documents and Settings\nitestryker\my documents\visual studio 2010\Projects\FS_AUTO_LIGHTS\FS_AUTO_LIGHTS\obj\x86\Debug\FS_AUTO_LIGHTS.exe.manifest
+C:\Documents and Settings\nitestryker\my documents\visual studio 2010\Projects\FS_AUTO_LIGHTS\FS_AUTO_LIGHTS\obj\x86\Debug\FS_AUTO_LIGHTS.application
+F:\VB Dev Projects From Desktop\FS_AUTO_LIGHTS\FS_AUTO_LIGHTS\obj\x86\Debug\FS_AUTO_LIGHTS.vbprojResolveAssemblyReference.cache
+F:\VB Dev Projects From Desktop\FS_AUTO_LIGHTS\FS_AUTO_LIGHTS\obj\x86\Debug\FS_AUTO_LIGHTS.about.resources
+F:\VB Dev Projects From Desktop\FS_AUTO_LIGHTS\FS_AUTO_LIGHTS\obj\x86\Debug\FS_AUTO_LIGHTS.Form1.resources
+F:\VB Dev Projects From Desktop\FS_AUTO_LIGHTS\FS_AUTO_LIGHTS\obj\x86\Debug\FS_AUTO_LIGHTS.Resources.resources
+F:\VB Dev Projects From Desktop\FS_AUTO_LIGHTS\FS_AUTO_LIGHTS\obj\x86\Debug\FS_AUTO_LIGHTS.vbproj.GenerateResource.Cache
+F:\VB Dev Projects From Desktop\FS_AUTO_LIGHTS\FS_AUTO_LIGHTS\obj\x86\Debug\FS_AUTO_LIGHTS.exe
+F:\VB Dev Projects From Desktop\FS_AUTO_LIGHTS\FS_AUTO_LIGHTS\obj\x86\Debug\FS_AUTO_LIGHTS.xml
+F:\VB Dev Projects From Desktop\FS_AUTO_LIGHTS\FS_AUTO_LIGHTS\obj\x86\Debug\FS_AUTO_LIGHTS.pdb
+F:\VB Dev Projects From Desktop\FS_AUTO_LIGHTS\FS_AUTO_LIGHTS\bin\Debug\FS_AUTO_LIGHTS.exe.manifest
+F:\VB Dev Projects From Desktop\FS_AUTO_LIGHTS\FS_AUTO_LIGHTS\bin\Debug\FS_AUTO_LIGHTS.application
+F:\VB Dev Projects From Desktop\FS_AUTO_LIGHTS\FS_AUTO_LIGHTS\bin\Debug\FS_AUTO_LIGHTS.exe
+F:\VB Dev Projects From Desktop\FS_AUTO_LIGHTS\FS_AUTO_LIGHTS\bin\Debug\FS_AUTO_LIGHTS.pdb
+F:\VB Dev Projects From Desktop\FS_AUTO_LIGHTS\FS_AUTO_LIGHTS\bin\Debug\FS_AUTO_LIGHTS.xml
+F:\VB Dev Projects From Desktop\FS_AUTO_LIGHTS\FS_AUTO_LIGHTS\bin\Debug\FSUIPCClient.xml
+F:\VB Dev Projects From Desktop\FS_AUTO_LIGHTS\FS_AUTO_LIGHTS\obj\x86\Debug\FS_AUTO_LIGHTS.TrustInfo.xml
+F:\VB Dev Projects From Desktop\FS_AUTO_LIGHTS\FS_AUTO_LIGHTS\obj\x86\Debug\FS_AUTO_LIGHTS.exe.manifest
+F:\VB Dev Projects From Desktop\FS_AUTO_LIGHTS\FS_AUTO_LIGHTS\obj\x86\Debug\FS_AUTO_LIGHTS.application

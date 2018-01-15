@@ -1,0 +1,100 @@
+10/14/2013 5:44:39 PM/tFSUIPC.FSUIPCException: FSUIPC Error #9: FSUIPC_ERR_NOTOPEN. The connection to class instance 00 of WideClient.exe is not open.
+   at FSUIPC.FSUIPCConnection.Process(Byte ClassInstance, IEnumerable`1 GroupNames)
+   at FSUIPC.FSUIPCConnection.Process(Byte ClassInstance, String GroupName)
+   at FSUIPC.FSUIPCConnection.Process()
+   at FS_AUTO_LIGHTS.Form1.autoLightsTimer_Tick(Object sender, EventArgs e) in C:\Documents and Settings\nitestryker\My Documents\Visual Studio 2010\Projects\FS_AUTO_LIGHTS\FS_AUTO_LIGHTS\Form1.vb:line 204
+
+3/31/2014 11:28:08 AM/tFSUIPC.FSUIPCException: FSUIPC Error #12: FSUIPC_ERR_SENDMSG. Error sending message to FSUIPC.
+   at FSUIPC.FSUIPCConnection.Process(Byte ClassInstance, IEnumerable`1 GroupNames)
+   at FSUIPC.FSUIPCConnection.Process(Byte ClassInstance, String GroupName)
+   at FSUIPC.FSUIPCConnection.Process()
+   at FS_AUTO_LIGHTS.Form1.autoLightsTimer_Tick(Object sender, EventArgs e) in C:\Documents and Settings\nitestryker\My Documents\Visual Studio 2010\Projects\FS_AUTO_LIGHTS\FS_AUTO_LIGHTS\Form1.vb:line 204
+
+3/31/2014 11:37:27 AM/tFSUIPC.FSUIPCException: FSUIPC Error #12: FSUIPC_ERR_SENDMSG. Error sending message to FSUIPC.
+   at FSUIPC.FSUIPCConnection.Process(Byte ClassInstance, IEnumerable`1 GroupNames)
+   at FSUIPC.FSUIPCConnection.Process(Byte ClassInstance, String GroupName)
+   at FSUIPC.FSUIPCConnection.Process()
+   at FS_AUTO_LIGHTS.Form1.autoLightsTimer_Tick(Object sender, EventArgs e) in C:\Documents and Settings\nitestryker\My Documents\Visual Studio 2010\Projects\FS_AUTO_LIGHTS\FS_AUTO_LIGHTS\Form1.vb:line 204
+
+3/31/2014 12:13:06 PM/tFSUIPC.FSUIPCException: FSUIPC Error #12: FSUIPC_ERR_SENDMSG. Error sending message to FSUIPC.
+   at FSUIPC.FSUIPCConnection.Process(Byte ClassInstance, IEnumerable`1 GroupNames)
+   at FSUIPC.FSUIPCConnection.Process(Byte ClassInstance, String GroupName)
+   at FSUIPC.FSUIPCConnection.Process()
+   at FS_AUTO_LIGHTS.Form1.autoLightsTimer_Tick(Object sender, EventArgs e) in C:\Documents and Settings\nitestryker\My Documents\Visual Studio 2010\Projects\FS_AUTO_LIGHTS\FS_AUTO_LIGHTS\Form1.vb:line 204
+
+3/31/2014 3:54:04 PM/tFSUIPC.FSUIPCException: FSUIPC Error #12: FSUIPC_ERR_SENDMSG. Error sending message to FSUIPC.
+   at FSUIPC.FSUIPCConnection.Process(Byte ClassInstance, IEnumerable`1 GroupNames)
+   at FSUIPC.FSUIPCConnection.Process(Byte ClassInstance, String GroupName)
+   at FSUIPC.FSUIPCConnection.Process()
+   at FS_AUTO_LIGHTS.Form1.autoLightsTimer_Tick(Object sender, EventArgs e) in C:\Documents and Settings\nitestryker\My Documents\Visual Studio 2010\Projects\FS_AUTO_LIGHTS\FS_AUTO_LIGHTS\Form1.vb:line 204
+
+3/31/2014 10:27:02 PM/tFSUIPC.FSUIPCException: FSUIPC Error #2: FSUIPC_ERR_NOFS. Cannot find FSUIPC or WideFS running on this machine.
+   at FSUIPC.FSUIPCConnection.Open(Byte ClassInstance, FlightSim RequiredFlightSimVersion)
+   at FSUIPC.FSUIPCConnection.Open()
+   at FS_AUTO_LIGHTS.Form1.Form1_Load(Object sender, EventArgs e) in C:\Documents and Settings\nitestryker\My Documents\Visual Studio 2010\Projects\FS_AUTO_LIGHTS\FS_AUTO_LIGHTS\Form1.vb:line 41
+
+4/1/2014 12:09:53 AM/tFSUIPC.FSUIPCException: FSUIPC Error #9: FSUIPC_ERR_NOTOPEN. The connection to class instance 00 of WideClient.exe is not open.
+   at FSUIPC.FSUIPCConnection.Process(Byte ClassInstance, IEnumerable`1 GroupNames)
+   at FSUIPC.FSUIPCConnection.Process(Byte ClassInstance, String GroupName)
+   at FSUIPC.FSUIPCConnection.Process()
+   at FS_AUTO_LIGHTS.Form1.autoLightsTimer_Tick(Object sender, EventArgs e) in C:\Documents and Settings\nitestryker\My Documents\Visual Studio 2010\Projects\FS_AUTO_LIGHTS\FS_AUTO_LIGHTS\Form1.vb:line 204
+
+4/1/2014 12:31:33 AM/tFSUIPC.FSUIPCException: FSUIPC Error #9: FSUIPC_ERR_NOTOPEN. The connection to class instance 00 of WideClient.exe is not open.
+   at FSUIPC.FSUIPCConnection.Process(Byte ClassInstance, IEnumerable`1 GroupNames)
+   at FSUIPC.FSUIPCConnection.Process(Byte ClassInstance, String GroupName)
+   at FSUIPC.FSUIPCConnection.Process()
+   at FS_AUTO_LIGHTS.Form1.autoLightsTimer_Tick(Object sender, EventArgs e) in C:\Documents and Settings\nitestryker\My Documents\Visual Studio 2010\Projects\FS_AUTO_LIGHTS\FS_AUTO_LIGHTS\Form1.vb:line 204
+
+4/1/2014 2:07:26 PM/tFSUIPC.FSUIPCException: FSUIPC Error #2: FSUIPC_ERR_NOFS. Cannot find FSUIPC or WideFS running on this machine.
+   at FSUIPC.FSUIPCConnection.Open(Byte ClassInstance, FlightSim RequiredFlightSimVersion)
+   at FSUIPC.FSUIPCConnection.Open()
+   at FS_AUTO_LIGHTS.Form1.Form1_Load(Object sender, EventArgs e) in C:\Documents and Settings\nitestryker\My Documents\Visual Studio 2010\Projects\FS_AUTO_LIGHTS\FS_AUTO_LIGHTS\Form1.vb:line 41
+
+4/1/2014 2:08:52 PM/tFSUIPC.FSUIPCException: FSUIPC Error #2: FSUIPC_ERR_NOFS. Cannot find FSUIPC or WideFS running on this machine.
+   at FSUIPC.FSUIPCConnection.Open(Byte ClassInstance, FlightSim RequiredFlightSimVersion)
+   at FSUIPC.FSUIPCConnection.Open()
+   at FS_AUTO_LIGHTS.Form1.Form1_Load(Object sender, EventArgs e) in C:\Documents and Settings\nitestryker\My Documents\Visual Studio 2010\Projects\FS_AUTO_LIGHTS\FS_AUTO_LIGHTS\Form1.vb:line 41
+
+4/15/2014 8:29:54 PM/tFSUIPC.FSUIPCException: FSUIPC Error #2: FSUIPC_ERR_NOFS. Cannot find FSUIPC or WideFS running on this machine.
+   at FSUIPC.FSUIPCConnection.Open(Byte ClassInstance, FlightSim RequiredFlightSimVersion)
+   at FSUIPC.FSUIPCConnection.Open()
+   at FS_AUTO_LIGHTS.Form1.Form1_Load(Object sender, EventArgs e) in C:\Documents and Settings\nitestryker\My Documents\Visual Studio 2010\Projects\FS_AUTO_LIGHTS\FS_AUTO_LIGHTS\Form1.vb:line 41
+
+7/28/2014 11:27:47 AM/tFSUIPC.FSUIPCException: FSUIPC Error #2: FSUIPC_ERR_NOFS. Cannot find FSUIPC or WideFS running on this machine.
+   at FSUIPC.FSUIPCConnection.Open(Byte ClassInstance, FlightSim RequiredFlightSimVersion)
+   at FSUIPC.FSUIPCConnection.Open()
+   at FS_AUTO_LIGHTS.Form1.Form1_Load(Object sender, EventArgs e) in C:\Documents and Settings\nitestryker\My Documents\Visual Studio 2010\Projects\FS_AUTO_LIGHTS\FS_AUTO_LIGHTS\Form1.vb:line 41
+
+7/28/2014 11:34:19 AM/tFSUIPC.FSUIPCException: FSUIPC Error #2: FSUIPC_ERR_NOFS. Cannot find FSUIPC or WideFS running on this machine.
+   at FSUIPC.FSUIPCConnection.Open(Byte ClassInstance, FlightSim RequiredFlightSimVersion)
+   at FSUIPC.FSUIPCConnection.Open()
+   at FS_AUTO_LIGHTS.Form1.Form1_Load(Object sender, EventArgs e) in C:\Documents and Settings\nitestryker\My Documents\Visual Studio 2010\Projects\FS_AUTO_LIGHTS\FS_AUTO_LIGHTS\Form1.vb:line 41
+
+7/28/2014 11:38:42 AM/tFSUIPC.FSUIPCException: FSUIPC Error #2: FSUIPC_ERR_NOFS. Cannot find FSUIPC or WideFS running on this machine.
+   at FSUIPC.FSUIPCConnection.Open(Byte ClassInstance, FlightSim RequiredFlightSimVersion)
+   at FSUIPC.FSUIPCConnection.Open()
+   at FS_AUTO_LIGHTS.Form1.Form1_Load(Object sender, EventArgs e) in F:\VB Dev Projects From Desktop\FS_AUTO_LIGHTS\FS_AUTO_LIGHTS\Form1.vb:line 43
+
+7/28/2014 11:38:54 AM/tFSUIPC.FSUIPCException: FSUIPC Error #2: FSUIPC_ERR_NOFS. Cannot find FSUIPC or WideFS running on this machine.
+   at FSUIPC.FSUIPCConnection.Open(Byte ClassInstance, FlightSim RequiredFlightSimVersion)
+   at FSUIPC.FSUIPCConnection.Open()
+   at FS_AUTO_LIGHTS.Form1.Form1_Load(Object sender, EventArgs e) in F:\VB Dev Projects From Desktop\FS_AUTO_LIGHTS\FS_AUTO_LIGHTS\Form1.vb:line 43
+
+7/28/2014 11:39:03 AM/tFSUIPC.FSUIPCException: FSUIPC Error #9: FSUIPC_ERR_NOTOPEN. The connection to class instance 00 of WideClient.exe is not open.
+   at FSUIPC.FSUIPCConnection.Process(Byte ClassInstance, IEnumerable`1 GroupNames)
+   at FSUIPC.FSUIPCConnection.Process(Byte ClassInstance, String GroupName)
+   at FSUIPC.FSUIPCConnection.Process()
+   at FS_AUTO_LIGHTS.Form1.autoLightsTimer_Tick(Object sender, EventArgs e) in F:\VB Dev Projects From Desktop\FS_AUTO_LIGHTS\FS_AUTO_LIGHTS\Form1.vb:line 206
+
+11/22/2014 11:07:47 AM/tFSUIPC.FSUIPCException: FSUIPC Error #2: FSUIPC_ERR_NOFS. Cannot find FSUIPC or WideFS running on this machine.
+   at FSUIPC.FSUIPCConnection.Open(Byte ClassInstance, FlightSim RequiredFlightSimVersion)
+   at FSUIPC.FSUIPCConnection.Open()
+   at FS_AUTO_LIGHTS.Form1.Form1_Load(Object sender, EventArgs e) in F:\VB Dev Projects From Desktop\FS_AUTO_LIGHTS\FS_AUTO_LIGHTS\Form1.vb:line 43
+
+5/12/2016 2:13:39 PM/tFSUIPC.FSUIPCException: FSUIPC Error #12: FSUIPC_ERR_SENDMSG. Error sending message to FSUIPC.
+   at FSUIPC.FSUIPCConnection.Process(Byte ClassInstance, IEnumerable`1 GroupNames)
+   at FSUIPC.FSUIPCConnection.Process(Byte ClassInstance, String GroupName)
+   at FSUIPC.FSUIPCConnection.Open(Byte ClassInstance, FlightSim RequiredFlightSimVersion)
+   at FSUIPC.FSUIPCConnection.Open()
+   at FS_AUTO_LIGHTS.Form1.Form1_Load(Object sender, EventArgs e) in F:\VB Dev Projects From Desktop\FS_AUTO_LIGHTS\FS_AUTO_LIGHTS\Form1.vb:line 43
+
